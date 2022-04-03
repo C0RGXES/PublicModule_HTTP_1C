@@ -1,2 +1,2 @@
 # GeneralPpurposeModule1C
-My General purpose module in 1C
+Конфигурация с общим модулем, который упрощает работу по обработке HTTP-запросов
