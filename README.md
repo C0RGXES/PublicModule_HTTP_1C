@@ -1,2 +1,2 @@
-# GeneralPpurposeModule1C
+# GeneralPurposeModule1C
 Конфигурация с общим модулем, который упрощает работу по обработке HTTP-запросов
